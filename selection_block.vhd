@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Company:  
--- Engineer: Tishya Sharma Sarkar
+-- Engineer: Tishya Sarma Sarkar
 -- 
 -- Create Date: 17.10.2021 11:54:35
 -- Design Name: 
@@ -15,7 +15,7 @@
 -- Revision:
 -- Revision 0.01 - File Created
 -- Additional Comments:
--- 
+-- Copyright Tishya Sarma Sarkar, Bappaditya Sinha. All Rights Reserved.
 ----------------------------------------------------------------------------------
 
 
