@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- Company: 
--- Engineer: Tishya Sharma Sarkar
+-- Engineer: Tishya Sarma Sarkar
 -- 
 -- Create Date: 25.02.2022 18:20:58
 -- Design Name: 
